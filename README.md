@@ -1,2 +1,2 @@
-# Start-Pattarns
+# Stars-Pattarns
 Pactice Stars Pattans
